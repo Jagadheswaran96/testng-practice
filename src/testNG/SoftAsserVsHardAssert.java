@@ -23,9 +23,9 @@ public class SoftAsserVsHardAssert {
 	@Test 
 	public void method2() {
 		System.out.println("verify home page");
-		Assert.assertEquals(true, true);
-		System.out.println("navigate to career page");
 		Assert.assertEquals(false, true);
+		System.out.println("navigate to career page");
+		Assert.assertEquals(true, true);
 		System.out.println("enroll as a candidate");
 	}
 	

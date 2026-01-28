@@ -12,6 +12,6 @@ public class Assertion {
 		String actual="Selenium";
 		String expected="Selenium";
 		assertEquals(actual, expected);
-		assertNotEquals(actual, expected, "they are not equal");
+		assertNotEquals(actual, expected, "they are not equals");
 	}
 }
