@@ -13,8 +13,6 @@
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/bcpkix-jdk15on-1.68.jar"/>
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/bcprov-jdk15on-1.68.jar"/>
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/bson-3.3.0.jar"/>
-	<classpathentry kind="lib" path="F:/Eclipse/Jars/commons-codec-1.9.jar"/>
-	<classpathentry kind="lib" path="F:/Eclipse/Jars/commons-codec-1.13.jar"/>
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/commons-codec-1.15.jar"/>
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/commons-collections4-4.4.jar"/>
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/commons-compress-1.20.jar"/>
@@ -47,7 +45,6 @@
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/poi-ooxml-full-5.0.0.jar"/>
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/poi-ooxml-lite-5.0.0.jar"/>
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/poi-scratchpad-5.0.0.jar"/>
-	<classpathentry kind="lib" path="F:/Eclipse/Jars/slf4j-api-1.7.30.jar"/>
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/SparseBitSet-1.2.jar"/>
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/webdrivermanager-4.4.3.jar"/>
 	<classpathentry kind="lib" path="F:/Eclipse/Jars/xml-apis-ext-1.3.04.jar"/>
